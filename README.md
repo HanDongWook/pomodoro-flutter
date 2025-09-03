@@ -1,16 +1,15 @@
-# pomodoro_flutter
+<h1 align="center">Pomodoro Timer</h1>
 
-A new Flutter project.
+<p align="center">  
+Pomodoro Timer isis to help you focus on any task you are working on.
+</p>
 
-## Getting Started
+## Tech stack & Open-source libraries
+- Flutter
+- Dart
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screen
+<p align="center">
+  <img width="270" height="600" alt="Screenshot_1756894067" src="https://github.com/user-attachments/assets/93a317b8-7b8b-4645-9a27-cb7afad0bb87" />
+  <img width="270" height="600" alt="Screenshot_1756894074" src="https://github.com/user-attachments/assets/7fdf868c-86be-441b-bd9e-cea32c9ea444" />
+</p>
