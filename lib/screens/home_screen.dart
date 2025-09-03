@@ -83,6 +83,12 @@ class _HomeScreenState extends State<HomeScreen> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 IconButton(
+                  iconSize: 49,
+                  color: Theme.of(context).cardColor,
+                  onPressed: onResetPressed,
+                  icon: Icon(Icons.refresh),
+                ),
+                IconButton(
                   iconSize: 98,
                   color: Theme.of(context).cardColor,
                   onPressed: isRunning ? onPausePressed : onStartPressed,
@@ -92,13 +98,6 @@ class _HomeScreenState extends State<HomeScreen> {
                         : Icons.play_circle_outline,
                   ),
                 ),
-                if (isRunning)
-                  IconButton(
-                    iconSize: 49,
-                    color: Theme.of(context).cardColor,
-                    onPressed: onResetPressed,
-                    icon: Icon(Icons.refresh),
-                  ),
               ],
             ),
           ),
