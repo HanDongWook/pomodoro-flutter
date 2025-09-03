@@ -10,6 +10,5 @@ Pomodoro Timer isis to help you focus on any task you are working on.
 
 ## Screen
 <p align="center">
-  <img width="270" height="600" alt="Screenshot_1756894067" src="https://github.com/user-attachments/assets/93a317b8-7b8b-4645-9a27-cb7afad0bb87" />
-  <img width="270" height="600" alt="Screenshot_1756894074" src="https://github.com/user-attachments/assets/7fdf868c-86be-441b-bd9e-cea32c9ea444" />
+  <img src="/previews/pomodoro_play.gif" width="320"/>
 </p>
