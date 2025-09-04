@@ -8,7 +8,7 @@ Pomodoro Timer isis to help you focus on any task you are working on.
 - Flutter
 - Dart
 
-## Screen
+## Preview
 <p align="center">
   <img src="/previews/pomodoro_play.gif" width="320"/>
 </p>
